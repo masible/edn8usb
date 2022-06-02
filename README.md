@@ -1,3 +1,15 @@
+# edn8usb
+
+Tool to use the optional USB port on the Everdrive N8 board. Instructions on how
+to install the chip are [available on the forum](https://krikzz.com/forum/index.php?topic=2003.0).
+
+## Binaries
+
+A Windows binary is available from [the Everdrive download site](https://krikzz.com/pub/support/everdrive-n8/original-series/development/)
+in the `usb-tool.zip` archive. A Linux binary can be obtained by running `make`.
+
+## Usage
+
 **Q: How to load rom for test ?**
 
 A: `edn8usb testrom.nes`
@@ -26,12 +38,9 @@ fpga `bus_mode` should be equal to `3(BMOD_REGS)`, otherwise access to custom re
 
 From PC side communication interface looks like standard serial COM port.
 
-Contact me if you have some other questions about this stuff
+## Contact
 
-biokrik@gmail.com
-
-http://krikzz.com/forum/
+[Contact me](biokrik@gmail.com) if you have some other questions about this stuff,
+or use [the official Krikzz forum](http://krikzz.com/forum/).
 
 07.02.2013
-
-end
