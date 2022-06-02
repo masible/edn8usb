@@ -38,6 +38,12 @@ fpga `bus_mode` should be equal to `3(BMOD_REGS)`, otherwise access to custom re
 
 From PC side communication interface looks like standard serial COM port.
 
+## License
+
+The software is available under the [CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) license,
+a license equivalent to the Public Domain license ([relicense](https://twitter.com/krikzz/status/1532303349483294720),
+[cached](images/edn8usb-relicense.png)).
+
 ## Contact
 
 [Contact me](biokrik@gmail.com) if you have some other questions about this stuff,
