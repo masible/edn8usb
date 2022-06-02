@@ -1,0 +1,10 @@
+C:\Users\krik\AppData\Local\Temporary Projects\edn8usb\bin\Release\edn8usb.exe
+C:\Users\krik\AppData\Local\Temporary Projects\edn8usb\bin\Release\edn8usb.pdb
+C:\Users\krik\AppData\Local\Temporary Projects\edn8usb\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\krik\AppData\Local\Temporary Projects\edn8usb\obj\x86\Release\edn8usb.exe
+C:\Users\krik\AppData\Local\Temporary Projects\edn8usb\obj\x86\Release\edn8usb.pdb
+E:\projects\everdrive-FC\tools\edn8usb\edn8usb\obj\x86\Release\edn8usb.exe
+E:\projects\everdrive-FC\tools\edn8usb\edn8usb\obj\x86\Release\edn8usb.pdb
+E:\projects\everdrive-FC\tools\edn8usb\edn8usb\bin\Release\edn8usb.exe
+E:\projects\everdrive-FC\tools\edn8usb\edn8usb\bin\Release\edn8usb.pdb
+E:\projects\everdrive-FC\tools\edn8usb\edn8usb\obj\x86\Release\ResolveAssemblyReference.cache

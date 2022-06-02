@@ -1,0 +1,5 @@
+E:\projects\everdrive-FC\tools\edn8usb\edn8usb\bin\Debug\edn8usb.exe
+E:\projects\everdrive-FC\tools\edn8usb\edn8usb\bin\Debug\edn8usb.pdb
+E:\projects\everdrive-FC\tools\edn8usb\edn8usb\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\projects\everdrive-FC\tools\edn8usb\edn8usb\obj\x86\Debug\edn8usb.exe
+E:\projects\everdrive-FC\tools\edn8usb\edn8usb\obj\x86\Debug\edn8usb.pdb
