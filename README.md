@@ -16,7 +16,7 @@ A: Yes
 
 1. `lda #1, sta $4400, lda #3, sta $4402 //magic initialization`
 2. now we can communicate with PC via `$4401`
-also can be usefull to check `$4403.1` and `$4403.2` before than read or write to `$4401`.
+also can be useful to check `$4403.1` and `$4403.2` before than read or write to `$4401`.
 
 `$4403.1` shows if port ready for read
 
